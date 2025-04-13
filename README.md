@@ -152,28 +152,19 @@ But domain setup is not mandatory.
 
 🔗 GitHub Repo with all updates
 
-![Screenshot 2025-04-13 202831](https://github.com/user-attachments/assets/c3b6d1c2-c51f-41f0-9eb1-d67ffa71b2f9)
-![Screenshot 2025-04-13 202810](https://github.com/user-attachments/assets/f69257a0-1ad6-4d7e-93d9-a74c93c1206a)
-![Screenshot 2025-04-13 202750](https://github.com/user-attachments/assets/34e2ac2f-c536-4ceb-9c9d-166c65e8e66b)
-![Screenshot 2025-04-13 201828](https://github.com/user-attachments/assets/064b7f18-3e28-41eb-b98b-f95d031ecc31)
-![Screenshot 2025-04-13 201055](https://github.com/user-attachments/assets/882182b1-b9e5-4187-8359-a41e9c1927e7)
-![Screenshot 2025-04-13 201013](https://github.com/user-attachments/assets/2ac793e7-7832-4b4f-8971-435f4d226fa2)
-![Screenshot 2025-04-13 200956](https://github.com/user-attachments/assets/d8f8f7bb-ee4f-4d23-8a0c-2c1a3ead4ef2)
-![Screenshot 2025-04-13 200940](https://github.com/user-attachments/assets/9b74dbc7-f883-42e8-b565-5be172954a17)
-![Screenshot 2025-04-13 200337](https://github.com/user-attachments/assets/2515e8a7-2708-4538-81a5-77fa8fe0841e)
-![Screenshot 2025-04-13 194729](https://github.com/user-attachments/assets/f4a80d32-ea67-4679-a7a1-9b7d714c748b)
-![Screenshot 2025-04-13 191109](https://github.com/user-attachments/assets/a61b667b-3b85-4aef-8d49-0f240a25a1b5)
 
-![Screenshot 2025-04-13 192317](https://github.com/user-attachments/assets/4d094e4e-958b-456f-bf39-2488528896f9)
+![image](https://github.com/user-attachments/assets/729cc463-a77a-4f22-af18-0b976b5462e5)
+![image](https://github.com/user-attachments/assets/c0599983-c9df-42eb-923a-7b93c54e1888)
+![image](https://github.com/user-attachments/assets/2feb9455-2e90-4cc2-a7ed-f6c92dec9d7c)
+![image](https://github.com/user-attachments/assets/f4004cf7-4c83-4ecf-a909-73feeae28bc6)
+![image](https://github.com/user-attachments/assets/d50237b0-37c6-4d05-8472-cc50b891923f)
+![image](https://github.com/user-attachments/assets/a1155fb7-d0b1-4ad6-ac7c-af75376cb2bb)
+![image](https://github.com/user-attachments/assets/21dbf3ff-05ec-4690-9bfe-c476dfb5d1ec)
+![image](https://github.com/user-attachments/assets/46111388-94f9-4bb3-b8a2-e25322dd91bc)
+![image](https://github.com/user-attachments/assets/fc6b630f-8283-46ba-b8fa-882d404a9c88)
 
-![Screenshot 2025-04-13 185641](https://github.com/user-attachments/assets/8c811a23-2998-43c5-925e-fcafbdae8785)
+![image](https://github.com/user-attachments/assets/7df9faed-a98d-451c-806d-7884c10de67a)
 
-![Screenshot 2025-04-13 182606](https://github.com/user-attachments/assets/cb6752a5-1f33-48f8-8457-b19b51dd839c)
-
-![Screenshot 2025-04-13 180225](https://github.com/user-attachments/assets/01c2a8f4-0a27-46b6-ac8f-d16603220ba8)
-
-![Screenshot 2025-04-13 174212](https://github.com/user-attachments/assets/ffa35646-cda5-4c33-8c8d-e03439e8a289)
-![Screenshot 2025-04-13 174136](https://github.com/user-attachments/assets/a6207339-d17a-4c92-a602-53e5b5d698c9)
 
 
 
