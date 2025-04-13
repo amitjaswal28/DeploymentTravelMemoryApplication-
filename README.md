@@ -1,5 +1,5 @@
 # 🌍 TravelMemory - Full Stack Deployment (EC2, NGINX, Load Balancer)
-
+Note: not done CloudFlare because i dont have domain.
 This guide documents the complete step-by-step deployment of the TravelMemory MERN Stack application to Amazon EC2, including backend and frontend setup, reverse proxy configuration, process management, and load balancing.
 
 ---
@@ -151,5 +151,49 @@ But domain setup is not mandatory.
 📝 This README for reference
 
 🔗 GitHub Repo with all updates
+
+
+![image](https://github.com/user-attachments/assets/729cc463-a77a-4f22-af18-0b976b5462e5)
+![image](https://github.com/user-attachments/assets/c0599983-c9df-42eb-923a-7b93c54e1888)
+![image](https://github.com/user-attachments/assets/2feb9455-2e90-4cc2-a7ed-f6c92dec9d7c)
+![image](https://github.com/user-attachments/assets/f4004cf7-4c83-4ecf-a909-73feeae28bc6)
+![image](https://github.com/user-attachments/assets/d50237b0-37c6-4d05-8472-cc50b891923f)
+![image](https://github.com/user-attachments/assets/a1155fb7-d0b1-4ad6-ac7c-af75376cb2bb)
+![image](https://github.com/user-attachments/assets/21dbf3ff-05ec-4690-9bfe-c476dfb5d1ec)
+![image](https://github.com/user-attachments/assets/46111388-94f9-4bb3-b8a2-e25322dd91bc)
+![image](https://github.com/user-attachments/assets/fc6b630f-8283-46ba-b8fa-882d404a9c88)
+
+![image](https://github.com/user-attachments/assets/7df9faed-a98d-451c-806d-7884c10de67a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
